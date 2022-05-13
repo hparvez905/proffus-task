@@ -47,39 +47,12 @@ margin-left: -40px;
 margin-bottom: 30px;
 }
 
-.bike-pic img{
-    
-    width: 552px;
-    height: 447px;
-}
+
 /* header style ends  */
 
 /* main style  */
-/* Featured bike style  */
-
-.Featured-bike-text {
-     font-family: 'Poppins', sans-serif;
-    font-size: 48px;
-    height: 72px;
-    
-}
-
-.Featured-bikes img{
-    width: 288px;
-height: 243px;
-background: url(Rectangle 4637.jpg);
-margin-bottom: 40px;
 
 
-}
-.gray-bike{
-    width: 288px;
-    height: 243px;
-    
-    background: url(Rectangle 4637.jpg);
-mix-blend-mode: luminosity;
-}
-/* featured bike style ends  */
 
 /* clients style starts  */
 .Clients{
@@ -117,7 +90,7 @@ color: #6C6C6C;
 
 }
 .news{
-border radius: 10px;;
+border-radius:10px;
 }
 /* Frequently Asked Questions style ends */
 /* main ends  */
