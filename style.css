@@ -1,0 +1,126 @@
+/* add text from google */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+body{
+    overflow-x: hidden;
+    
+}
+
+/* header style starts */
+
+.main{
+    z-index: 1;
+}
+
+.start-p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    height: 16px;
+   
+}
+.tittle{
+    
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    height: 48px;
+   
+    
+}
+
+.start-text{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    width: 456px;
+    height: 72px;
+    margin-left: -40px;
+    margin-top: 50px;
+    
+
+}
+.buy{
+    width: 168px;
+height: 44px;
+background: #E76F51;
+border-radius: 5px;
+margin-left: -40px;
+margin-bottom: 30px;
+}
+
+.bike-pic img{
+    
+    width: 552px;
+    height: 447px;
+}
+/* header style ends  */
+
+/* main style  */
+/* Featured bike style  */
+
+.Featured-bike-text {
+     font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    height: 72px;
+    
+}
+.bike-collection{
+    margin-top: -15px;
+
+}
+.Featured-bikes img{
+    width: 288px;
+height: 243px;
+background: url(Rectangle 4637.jpg);
+margin-bottom: 40px;
+
+
+}
+.gray-bike{
+    width: 288px;
+    height: 243px;
+    
+    background: url(Rectangle 4637.jpg);
+mix-blend-mode: luminosity;
+}
+/* featured bike style ends  */
+
+/* clients style starts  */
+.Clients{
+    margin-top: 150px;
+}
+.card-text{
+
+font-family: Poppins;
+font-weight: 400;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #6C6C6C;
+
+}
+/* clients style ends  */
+
+/* Frequently Asked Questions style starts */
+
+.Questions{
+    margin-top: 130px;
+}
+
+/* .row{
+    margin-top: 100px;
+} */
+.pic img{
+    width: 431.2px;
+    height: 423.5px;
+    margin-left: 24%;
+
+}
+.news{
+    margin-top:  -5px;
+}
+/* Frequently Asked Questions style ends */
+/* main ends  */
