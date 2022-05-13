@@ -63,10 +63,7 @@ margin-bottom: 30px;
     height: 72px;
     
 }
-.bike-collection{
-    margin-top: -15px;
 
-}
 .Featured-bikes img{
     width: 288px;
 height: 243px;
@@ -120,7 +117,7 @@ color: #6C6C6C;
 
 }
 .news{
-    margin-top:  -5px;
+border radius: 10px;;
 }
 /* Frequently Asked Questions style ends */
 /* main ends  */
